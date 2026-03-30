@@ -118,7 +118,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  @apply bg-slate-500;
+  @apply bg-slate-600;
 }
 
 html {
@@ -126,7 +126,7 @@ html {
 }
 
 section[id] {
-  scroll-margin-top: 84px;
+  scroll-margin-top: 85px;
 }
 
 /* Shared semantic utility classes used by sections */
